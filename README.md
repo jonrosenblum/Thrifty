@@ -19,41 +19,35 @@
 ## Table of Contents
 
 - [Introduction](#Introduction)
-- [Technical Requirements](#technical_requirements)
-- [Project Structure](#project-structure)
 - [Key Functionalities](#key-functionalities)
-- [Project Features](#project-features)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Dependencies](#dependencies)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Introduction
 
 Thrifty is a modern web application built to enhance the shopping experience by combining the power of eBay and Poshmark Marketplaces. Users can effortlessly search for items across both platforms, explore detailed results, and conveniently manage their personal wishlist.
 
-## Technical Requirements
-
-## Project Structure
-
 ## Key Functionalities
 
-## Project Features
+1. **Simultaneous Marketplace Querying**: Thrifty revolutionizes online shopping by allowing users to browse through multiple marketplaces simultaneously. By integrating eBay and Poshmark APIs, users can effortlessly search for products across both platforms in a single, consolidated view.
 
-- **User Authentication:** Secure user signup and login functionality.
-- **Session Management:** Manage user sessions for a seamless experience.
-- **Cross-Platform Search:** Search for items on both eBay and Poshmark.
-- **Interactive Results:** Display search results with images, prices, and links.
-- **Personal Wishlist:** Allow users to curate and manage their wishlist.
-- **User Logout:** Provide a smooth logout mechanism.
+2. **Efficient Product and Search Management**: Thrifty provides users with a centralized space to save their favorite products and searches to their wishlist. Users can efficiently organize and manage their shopping preferences, making it easy to revisit and explore items of interest at their convenience.
 
-## Getting Started
+3. **Personalized Recommendations**: Tailoring the shopping experience to each user, Thrifty employs sophisticated algorithms to offer personalized product recommendations based on past searches, wishlist items, and browsing behavior. This ensures that users are presented with options that align with their preferences and tastes.
 
-## Usage
+4. **Intuitive User Interface**: Thrifty boasts an intuitive and user-friendly interface, enabling users to navigate effortlessly through the application. The design prioritizes ease of use, allowing users to access wishlist features, search capabilities, and product management with simplicity and efficiency.
 
-## Dependencies
+5. **Seamless Wishlist Synchronization**: Thrifty ensures that users can access their wishlist seamlessly across devices. Whether on a desktop or mobile device, the wishlist remains synchronized, providing a consistent and convenient shopping experience.
 
-## Contributing
+6. **Real-time Updates**: Users receive real-time updates on saved products, including price drops, availability changes, and new listings. This ensures that users are always informed of any relevant updates related to their wishlist items.
 
 ## License
+
+MIT License
+
+Copyright (c) 2023 Jon Rosenblum
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
