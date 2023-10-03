@@ -1,12 +1,10 @@
 <p align="center">
-    <a href=""><img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" /></a>
-    <a href=""><img src="https://badgen.net/github/commits/aokhepburn/price-comparison-site" /></a>
-    <br>
-    <a href="https://docs.python.org/3/index.html"><img src="https://img.shields.io/badge/python-%2320232a?style=for-the-badge&logo=python&logoColor=ffdd54" /></a>
-    <a href=""><img src="https://img.shields.io/badge/React.js-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white"/></a>
     <a href=""><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /></a>
+    <a href=""><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
+    <a href=""><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /></a>
     <br>
-    <a href=""><img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" /></a>
+    <a href=""><img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" /></a>
+    <a href=""><img src="https://badgen.net/github/commits/jonrosenblum/Thrifty" /></a>
 </p>
 
 <h1 align="center"><b>Thrifty</b></h1>
